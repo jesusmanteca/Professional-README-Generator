@@ -140,7 +140,6 @@ promptUser()
     const newREADME = generateMarkdown(userData)
     writeToFile(newREADME)
 })
-
 }
 // function call to initialize program
 init();

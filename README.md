@@ -1,30 +1,42 @@
-# Professional README Generator Starter Code
+# Professional-README-Generator
 
-[How to create a Professional README](./readme-guide.md)
+## Description 
+
+The Professional README Generator is a tool that you can use to save time on styling a README.md page. Focus more on what your program's code and quit worrying so much about making a README page, just follow the prompts. When you're finished, a brand new README.md file will appear with all your information in the distribution folder (./dist).
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#Contributing)
+* [Tests](#Tests) 
+* [Languages](#Languages) 
+
+## Installation
+
+To install, simply clone the app and git init the json packages. Once on node, you run the index.js on your terminal and the program will guide you through some prompts. When you're finished, a brand new README.md file will appear with all your information in the distribution folder (./dist).
+
+## Usage 
+
+Follow the prompts and answer each question thoroughly. When you're finished, a brand new README.md file will appear with all your information in the distribution folder (./dist).
 
 
-AS A developer
-I WANT a README generator
-SO THAT can quickly create a professional README for a new project
+---
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-    THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+## Contributing
 
-WHEN I enter my project title
-    THEN this is displayed as the title of the README
+Other may contribute by requesting to contribute through GitHub, cloning the code and creating separate branches. All final code will be reviewed and approved if changes are favorable.
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-    THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+## Tests
 
-WHEN I choose a license for my application from a list of options
-    THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+N.A.
 
-WHEN I enter my GitHub username
-    THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+## Languages
 
-WHEN I enter my email address
-    THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+JavaScript, ES6, Node
 
-WHEN I click on the links in the Table of Contents
-    THEN I am taken to the corresponding section of the README
+## For More Information
+
+https://github.com/jesusmanteca
+jesusmanteca@gmail.com
+
