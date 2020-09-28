@@ -40,3 +40,4 @@ JavaScript, ES6, Node
 https://github.com/jesusmanteca
 jesusmanteca@gmail.com
 
+[Video Link](https://youtu.be/j06Z0Uoko1A)
