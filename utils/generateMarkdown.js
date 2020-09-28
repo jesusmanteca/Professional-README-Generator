@@ -9,10 +9,11 @@ function generateMarkdown(data) {
 
 ${data.projectDescription}
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [License](#License) 
 * [Contributing](#Contributing)
 * [Tests](#Tests) 
 * [Languages](#Languages) 
@@ -29,7 +30,7 @@ ${data.usageInfo}
 ## License
 
   The application is covered under the ${data.license} license.
-  
+
   ${badge(data.license)}
 
 ## Contributing

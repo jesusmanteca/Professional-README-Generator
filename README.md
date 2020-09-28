@@ -8,6 +8,7 @@ The Professional README Generator is a tool that you can use to save time on sty
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [License](#License) 
 * [Contributing](#Contributing)
 * [Tests](#Tests) 
 * [Languages](#Languages) 
@@ -22,6 +23,11 @@ Follow the prompts and answer each question thoroughly. When you're finished, a 
 
 
 ---
+## License
+
+  The application is covered under the MIT license.
+
+  ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
 
 ## Contributing
 
