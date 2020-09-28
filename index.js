@@ -93,6 +93,17 @@ const promptUser = () => {
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
       },
       {
+        type: "list",
+        message: "Please select a type of license.",
+        name: "license",
+        choices: [
+            "MIT",
+            "Apache",
+            "ISC",
+            "GNU GPLv3"
+        ]
+      },
+      {
         type: 'input',
         name: 'github',
         message: 'Please provide your Github username. (Required)',

@@ -1,5 +1,7 @@
 // function to generate markdown for README
-
+function badge(license){
+  return `![Badge](https://img.shields.io/badge/License-${license}-blueviolet)`
+}
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
 
@@ -24,6 +26,11 @@ ${data.installationInstuctions}
 ${data.usageInfo}
 
 ---
+## License
+
+  The application is covered under the ${data.license} license.
+  
+  ${badge(data.license)}
 
 ## Contributing
 
